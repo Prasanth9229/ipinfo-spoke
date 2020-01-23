@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="city" label="city" language="en" table="var__m_sys_hub_step_ext_output_8501cd38dbe24010da13146139961954">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <help/>
+            <hint/>
+            <label>city</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_8501cd38dbe24010da13146139961954</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-22 06:14:57</sys_created_on>
+            <sys_id>d501cd38dbe24010da1314613996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>city</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_299121_ipinfo_sp">3e772fe6dbd20010da13146139961985</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">3e772fe6dbd20010da13146139961985</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_8501cd38dbe24010da13146139961954_city_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-22 06:14:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
